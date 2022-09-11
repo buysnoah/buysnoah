@@ -1,4 +1,4 @@
 - hi im noah
 - noob js
-- noob roblox lua
+- noob lua
 - my discord: buysnoah#1080
