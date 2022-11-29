@@ -1,4 +1,4 @@
-- hi im noah
-- noob js
-- noob lua
-- my discord: buysnoah#1080
+{
+ discord: buysnoah#1080
+ skill: none
+}
