@@ -1,4 +1,4 @@
 {
- discord: buysnoah#1080
+ discord: buysnoah#1080,
  skill: none
 }
